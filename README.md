@@ -50,4 +50,9 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação �
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
 />
+<br/>
+
+#
+
+### 📺 Vídeos do YouTube
 
