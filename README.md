@@ -2,9 +2,9 @@
 
 **`Desenvolvedora iOS `**
 
-Olá, é um prazer ter vocês aqui 👋 
+Olá, é um prazer ter vocês aqui :) 
 <br/>
-Sou uma engenheira química apaixonada por ciência, tecnologia e inovação 👩🏻‍🔬💖
+Sou uma engenheira química apaixonada por ciência, tecnologia e inovação. 
 
 ---
 
@@ -56,6 +56,7 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação �
 
 ### 📺 Vídeos do YouTube
 
-[![I finally got access to Claude Code... i'm not a fan](https://ytcards.demolab.com/?id=W13MloZg03Y&title=I+finally+got+access+to+Claude+Code...+i%27m+not+a+fan&lang=en&timestamp=1741356038&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1349 "I finally got access to Claude Code... i'm not a fan")](https://www.youtube.com/watch?v=W13MloZg03Y)
-[![I finally got access to Claude Code... i'm not a fan](https://ytcards.demolab.com/?id=W13MloZg03Y&title=I+finally+got+access+to+Claude+Code...+i%27m+not+a+fan&lang=en&timestamp=1741356038&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1349 "I finally got access to Claude Code... i'm not a fan")](https://www.youtube.com/watch?v=W13MloZg03Y)
-[![I finally got access to Claude Code... i'm not a fan](https://ytcards.demolab.com/?id=W13MloZg03Y&title=I+finally+got+access+to+Claude+Code...+i%27m+not+a+fan&lang=en&timestamp=1741356038&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1349 "I finally got access to Claude Code... i'm not a fan")](https://www.youtube.com/watch?v=W13MloZg03Y)
+[![Watch the video](https://img.youtube.com/vi/bubGTv59JWo/0.jpg)](https://www.youtube.com/watch?v=bubGTv59JWo)<br/>
+[Aprenda a criar um app que fala](https://youtu.be/bubGTv59JWo)
+
+
