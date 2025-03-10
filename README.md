@@ -56,7 +56,9 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
 
 ### 📺 Vídeos do YouTube
 
-[![Watch the video](https://img.youtube.com/vi/bubGTv59JWo/0.jpg)](https://www.youtube.com/watch?v=bubGTv59JWo)<br/>
-[Aprenda a criar um app que fala](https://youtu.be/bubGTv59JWo)
+[<img width="1280" alt="capa1" src="https://github.com/user-attachments/assets/d1549bac-dfcc-4412-9f09-7a53d903892c" />](https://www.youtube.com/playlist?list=PLWpneBiTMe-1sWckcnHUeXleXwd44qQqc)<br/>
+
+[<img width="1280" alt="capa2" src="https://github.com/user-attachments/assets/214ec1d9-660e-40d9-933c-519356c2f513" />](https://www.youtube.com/playlist?list=PLWpneBiTMe-1YvMp9GOMBaZor_mqGpPzx)<br/>
+
 
 
