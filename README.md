@@ -2,9 +2,8 @@
 
 **`Desenvolvedora iOS `**
 
-Olá, é um prazer ter vocês aqui :) 
-<br/>
-Sou uma engenheira química apaixonada por ciência, tecnologia e inovação. 
+Olá, é um prazer ter vocês aqui :) <br/>
+Sou uma engenheira apaixonada por ciência, tecnologia e inovação. 
 
 ---
 
@@ -12,40 +11,40 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Swift"
+    title="Swift" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="C++" 
+    title="C++"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="GitHub" 
+    title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Firebase"
+    title="Firebase" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Linux"
+    title="Linux" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
@@ -60,5 +59,10 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
 
 [<img width="1280" alt="capa2" src="https://github.com/user-attachments/assets/214ec1d9-660e-40d9-933c-519356c2f513" />](https://www.youtube.com/playlist?list=PLWpneBiTMe-1YvMp9GOMBaZor_mqGpPzx)<br/>
 
-
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/allinepedreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pedreiraalline@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
