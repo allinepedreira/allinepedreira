@@ -61,7 +61,7 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
 
 #
 
-### 📱 Aplicativos desenvolvidos
+### 📱 Aplicativos Desenvolvidos
 
 <img 
     align="left" 
@@ -108,7 +108,11 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
 
 #
 
-### 📱 Áreas de atuação
+### 📊 Áreas de Atuação
+
+<img width="631" alt="IM" src="https://github.com/user-attachments/assets/65120454-1e4d-45be-958d-b0785d27dbf9" /> <br/> <br/> 
+<img width="637" alt="Dev" src="https://github.com/user-attachments/assets/5b95b91b-50b9-4bf0-9dc1-9a77c8436361" /> <br/> <br/> 
+<img width="731" alt="Research" src="https://github.com/user-attachments/assets/12bc0534-6c5d-4d7b-8ce5-610cf874e8e8" /> <br/>
 
 
   ## 
@@ -116,7 +120,9 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
 <div> 
   <a href="https://www.instagram.com/allinepedreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedreiraalline@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.researchgate.net/profile/Alline-Pedreira"><img src="https://img.shields.io/badge/-ResearchGate-green?style=for-the-badge&logo=ResearchGate&logoColor=white"></a>  
 </div>
+
 <br/>
 
 
