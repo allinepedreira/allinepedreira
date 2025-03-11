@@ -59,13 +59,9 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
 
 [<img width="1280" alt="capa2" src="https://github.com/user-attachments/assets/214ec1d9-660e-40d9-933c-519356c2f513" />](https://www.youtube.com/playlist?list=PLWpneBiTMe-1YvMp9GOMBaZor_mqGpPzx)<br/>
 
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/allinepedreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pedreiraalline@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-<br/>
+#
+
+### 📱 Aplicativos desenvolvidos
 
 <img 
     align="left" 
@@ -108,8 +104,20 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
     src="https://github.com/user-attachments/assets/489a0ac1-b422-4b8c-9fa6-285287e3a9fb" 
 />
 
+<br/><br/><br/><br/><br/>
+
+#
+
+### 📱 Áreas de atuação
 
 
+  ## 
+  
+<div> 
+  <a href="https://www.instagram.com/allinepedreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pedreiraalline@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+<br/>
 
 
 
