@@ -69,6 +69,14 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
 
 <img 
     align="left" 
+    alt="Odessa"
+    title="Odessa" 
+    width="80px" 
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/7dd2467a-53c9-4f6b-960f-7a25fd3e4201" 
+/>
+<img 
+    align="left" 
     alt="Apadrinhamento"
     title="Apadrinhamento" 
     width="78px" 
@@ -99,6 +107,7 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/489a0ac1-b422-4b8c-9fa6-285287e3a9fb" 
 />
+
 
 
 
