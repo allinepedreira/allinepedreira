@@ -121,6 +121,8 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
   <a href="https://www.instagram.com/allinepedreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedreiraalline@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.researchgate.net/profile/Alline-Pedreira"><img src="https://img.shields.io/badge/-ResearchGate-green?style=for-the-badge&logo=ResearchGate&logoColor=white"></a>  
+  <a href="https://www.linkedin.com/in/alline-pedreira-aa75a9355/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 </div>
 
 <br/>
