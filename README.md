@@ -67,7 +67,7 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
     align="left" 
     alt="Odessa"
     title="Odessa" 
-    width="60px" 
+    width="40px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/7dd2467a-53c9-4f6b-960f-7a25fd3e4201" 
 />
@@ -75,7 +75,7 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
     align="left" 
     alt="Apadrinhamento"
     title="Apadrinhamento" 
-    width="59px" 
+    width="39px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/929d13e5-360a-4b1e-9e94-eceeaea2874e" 
 />
@@ -83,25 +83,25 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
     align="left" 
     alt="Finis"
     title="Finis" 
-    width="60px" 
+    width="40px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/d1eacba2-f1df-4371-a64d-0e7b8680d41d" 
 />
 <img 
     align="left" 
-    alt="Evil After All"
-    title="Evil After All" 
-    width="60px" 
+    alt="Bebêabá"
+    title="Bebêabá" 
+    width="40px" 
     style="padding-right: 10px;"
-    src="https://github.com/user-attachments/assets/8b57c6e5-75d0-4404-8cea-513a8021838e" 
+    src="https://github.com/user-attachments/assets/489a0ac1-b422-4b8c-9fa6-285287e3a9fb" 
 />
 <img 
     align="left" 
-    alt="Bebêabá"
-    title="Bebêabá" 
-    width="65px" 
+    alt="Evil After All"
+    title="Evil After All" 
+    width="40px" 
     style="padding-right: 10px;"
-    src="https://github.com/user-attachments/assets/489a0ac1-b422-4b8c-9fa6-285287e3a9fb" 
+    src="https://github.com/user-attachments/assets/8b57c6e5-75d0-4404-8cea-513a8021838e" 
 />
 
 <br/><br/>
