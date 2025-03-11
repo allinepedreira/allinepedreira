@@ -67,7 +67,7 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
     align="left" 
     alt="Odessa"
     title="Odessa" 
-    width="80px" 
+    width="60px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/7dd2467a-53c9-4f6b-960f-7a25fd3e4201" 
 />
@@ -75,7 +75,7 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
     align="left" 
     alt="Apadrinhamento"
     title="Apadrinhamento" 
-    width="78px" 
+    width="59px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/929d13e5-360a-4b1e-9e94-eceeaea2874e" 
 />
@@ -83,7 +83,7 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
     align="left" 
     alt="Finis"
     title="Finis" 
-    width="80px" 
+    width="60px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/d1eacba2-f1df-4371-a64d-0e7b8680d41d" 
 />
@@ -91,7 +91,7 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
     align="left" 
     alt="Evil After All"
     title="Evil After All" 
-    width="80px" 
+    width="60px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/8b57c6e5-75d0-4404-8cea-513a8021838e" 
 />
@@ -99,12 +99,12 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
     align="left" 
     alt="Bebêabá"
     title="Bebêabá" 
-    width="85px" 
+    width="65px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/489a0ac1-b422-4b8c-9fa6-285287e3a9fb" 
 />
 
-<br/><br/><br/><br/><br/>
+<br/><br/>
 
 #
 
@@ -112,7 +112,8 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
 
 <img width="631" alt="IM" src="https://github.com/user-attachments/assets/65120454-1e4d-45be-958d-b0785d27dbf9" /> <br/> <br/> 
 <img width="637" alt="Dev" src="https://github.com/user-attachments/assets/5b95b91b-50b9-4bf0-9dc1-9a77c8436361" /> <br/> <br/> 
-<img width="731" alt="Research" src="https://github.com/user-attachments/assets/12bc0534-6c5d-4d7b-8ce5-610cf874e8e8" /> <br/>
+<img width="726" alt="research" src="https://github.com/user-attachments/assets/a012c383-5df9-4b38-92f0-03efe3bc256d" />
+
 
 
   ## 
