@@ -110,10 +110,12 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
 
 ### 📊 Áreas de Atuação
 
-<img width="631" alt="IM" src="https://github.com/user-attachments/assets/65120454-1e4d-45be-958d-b0785d27dbf9" /> <br/> <br/> 
-<img width="630" alt="dev" src="https://github.com/user-attachments/assets/f57e9a2c-8701-4e9d-8599-23de81f3f172" /> <br/> <br/> 
-<img width="627" alt="Research" src="https://github.com/user-attachments/assets/58b2a4c1-8192-4879-be35-a373955f0109" />
-
+<img width="628" alt="research" src="https://github.com/user-attachments/assets/dc527100-dff5-42f8-9292-0aa0c4b7a73f" />
+<br/> <br/> 
+<img width="630" alt="dev" src="https://github.com/user-attachments/assets/f57e9a2c-8701-4e9d-8599-23de81f3f172" /> 
+<br/> <br/> 
+<img width="631" alt="IM" src="https://github.com/user-attachments/assets/65120454-1e4d-45be-958d-b0785d27dbf9" /> 
+<br/> 
 
   ## 
   
