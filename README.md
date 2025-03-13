@@ -3,7 +3,11 @@
 **`Desenvolvedora iOS `**
 
 Olá, é um prazer ter vocês aqui :) <br/>
-Sou uma engenheira química apaixonada por ciência, tecnologia e inovação. 
+Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.<br/>
+
+Quer conhecer um pouco mais da minha formação? 
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20For%20More-blue?style=for-the-badge&logoColor=white"/>](https://www.linkedin.com/in/alline-pedreira-aa75a9355/)
 
 ---
 
@@ -109,6 +113,8 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação.
 #
 
 ### 📊 Áreas de Atuação
+
+`Já atuei com química computacional, desenvolvimento e análise de dados.`
 
 <img width="625" alt="research" src="https://github.com/user-attachments/assets/69313712-f9cd-4e33-8491-b3bfa2cd3bbd" />
 <br/> <br/> 
