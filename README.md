@@ -7,7 +7,7 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação. <b
 
 **Quer conhecer um pouco mais sobre mim?**
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Acesse%20Aqui%20Linkedin-blue?style=for-the-badge&logoColor=white"/>](https://www.linkedin.com/in/alline-pedreira-aa75a9355/)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20For%20More-blue?style=for-the-badge&logoColor=white"/>](https://www.linkedin.com/in/alline-pedreira-aa75a9355/)
 
 ---
 
