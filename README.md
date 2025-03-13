@@ -5,9 +5,6 @@
 Olá, é um prazer ter vocês aqui :) <br/>
 Sou uma engenheira química apaixonada por ciência, tecnologia e inovação. <br/>
 
-**Quer conhecer um pouco mais sobre mim?**
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Acesse%20Meu%20Linkedin-blue?style=for-the-badge&logoColor=white"/>](https://www.linkedin.com/in/alline-pedreira-aa75a9355/)
 
 ---
 
