@@ -111,7 +111,7 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação. <b
 
 ### 📊 Áreas de Atuação
 
-`Já atuei com química computacional, desenvolvimento e análise de dados.`
+`Atuei nas áreas de química computacional, desenvolvimento e análise de dados.`
 
 <img width="625" alt="research" src="https://github.com/user-attachments/assets/69313712-f9cd-4e33-8491-b3bfa2cd3bbd" />
 <br/> <br/> 
