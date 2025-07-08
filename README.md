@@ -30,9 +30,9 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação. <b
     align="left" 
     alt="GitHub" 
     title="GitHub"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+    src="https://gist.githubusercontent.com/johan/1007813/raw/a25829510f049194b6404a8f98d22978e8744a6f/octocat.svg" 
 />
 <img 
     align="left" 
