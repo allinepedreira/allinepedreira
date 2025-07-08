@@ -36,19 +36,19 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação. <b
 />
 <img 
     align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="31px" 
-    style="padding-right: 10px;" 
-    src="https://images.icon-icons.com/642/PNG/512/github_icon-icons.com_59223.png" 
-/>
-<img 
-    align="left" 
     alt="Linux"
     title="Linux" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="31px" 
+    style="padding-right: 10px;" 
+    src="https://images.icon-icons.com/642/PNG/512/github_icon-icons.com_59223.png" 
 />
 <br/>
 
