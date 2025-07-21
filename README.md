@@ -84,7 +84,7 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação. <b
     align="left" 
     alt="Finis"
     title="Finis" 
-    width="41.4px" 
+    width="41.5px" 
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/d1eacba2-f1df-4371-a64d-0e7b8680d41d" 
 />
