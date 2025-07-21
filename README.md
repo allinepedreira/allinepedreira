@@ -76,9 +76,9 @@ Sou uma engenheira química apaixonada por ciência, tecnologia e inovação. <b
     align="left" 
     alt="Apadrinhamento"
     title="Apadrinhamento" 
-    width="39px" 
+    width="40px" 
     style="padding-right: 10px;"
-    src="https://github.com/user-attachments/assets/929d13e5-360a-4b1e-9e94-eceeaea2874e" 
+    src="https://github.com/user-attachments/assets/d10e6c57-5bc5-472f-99b5-12e9993856ae" 
 />
 <img 
     align="left" 
